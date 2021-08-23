@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Home
 
-You can use the [editor on GitHub](https://github.com/AkshayAru/AkshayAru.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information
+Surname(s) / First name(s): **Write down your full name here**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
 
-### Markdown
+Date of birth: Write your date of birth here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
+
+Write a few sentences describing you the best.
 
 ```markdown
-Syntax highlighted code block
+### List of hobbies:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Coding
+  * Elm
+  * Haskell
+    * Stack
+    * ghc
+* Biking
+* Hiking
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Find me here
 
-### Jekyll Themes
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+        </td>
+        <td>
+            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+        </td>
+        <td>
+            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
+        </td>
+    </tr>
+</table>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkshayAru/AkshayAru.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* <i class="fas fa-file fa-lg"></i> You can also download my resume [here](cv.pdf)
 
-### Support or Contact
+### My photo gallery
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Have a look at my photo gallery](/photo.md)
+
+# Eduction
+
+* (1983-Forever) - Student 
+
+## Technical Skills
+
+### Programming Languages
+
+* Elm
+
+### My professional experiences
+
+```markdown
+1. (2006-2007) Software Developer
+2. (2007-2010) Project Leader
+3. (2010-2015) IT Manager
+4. (2-15- Now) Product Mangager
+```
