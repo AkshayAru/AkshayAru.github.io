@@ -11,7 +11,6 @@ Date of birth: Write your date of birth here
 
 Write a few sentences describing you the best.
 
-```markdown
 ### List of hobbies:
 
 * Coding
@@ -21,7 +20,6 @@ Write a few sentences describing you the best.
     * ghc
 * Biking
 * Hiking
-```
 
 ### Find me here
 
